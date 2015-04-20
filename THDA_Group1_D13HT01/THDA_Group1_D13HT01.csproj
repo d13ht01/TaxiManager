@@ -59,7 +59,7 @@
     <ApplicationIcon>Ubuntu.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>F983D32A3B4BF92A8BEEB61F3E4507AB02F5B9B0</ManifestCertificateThumbprint>
@@ -77,7 +77,7 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <SignAssembly>true</SignAssembly>
+    <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
     <AssemblyOriginatorKeyFile>testkey.pfx</AssemblyOriginatorKeyFile>
